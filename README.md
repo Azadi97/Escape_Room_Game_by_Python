@@ -17,3 +17,6 @@ Here is a checklist of deliverables for the quest that you can refer to througho
 * Any user input is validated and the game incorporates error handling techniques to handle any possible errors or exceptions, providing a smoother user experience.
 * The code is well-documented with comments explaining what different sections of the code are doing. Functions are properly documented as well following docstring good practices.
 * The game has a clear end goal or “win” condition that the player can achieve (making it “Outside”).
+
+# Game Structure:
+![Alt Text](escape_game.jpg)
